@@ -67,3 +67,12 @@ This incident was ultimately assessed as a **false positive**, triggered by **au
 #### ✅ Outcome
 
 Despite the unexpected timing and initial panic, the incident was handled with discipline and clear communication. The proactive and transparent approach was well received — both the **security team and general manager expressed appreciation** for how smoothly and decisively the response was executed.
+
+## 🧠 Lessons Learned and things to remember
+
+- **Stay calm under pressure** — panic can cloud judgment and slow down critical thinking.  
+- **Take every alert seriously**, especially those involving high-privilege users.  
+- **Plan your investigation before diving in** — sketch a mental map of steps and stick to it.  
+- **Document everything** — write as you investigate to maintain a clear audit trail.  
+- **Escalate early** — don’t wait too long to notify stakeholders, even if it’s just a heads-up.  
+- **Teamwork is vital** — know when to request help and use available support.
