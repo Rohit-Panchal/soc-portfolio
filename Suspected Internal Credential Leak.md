@@ -67,7 +67,3 @@ This incident was ultimately assessed as a **false positive**, triggered by **au
 #### ✅ Outcome
 
 Despite the unexpected timing and initial panic, the incident was handled with discipline and clear communication. The proactive and transparent approach was well received — both the **security team and general manager expressed appreciation** for how smoothly and decisively the response was executed.
-
----
-
-Let me know if you'd like a version with markdown formatting for GitHub, or if you'd like to create a template for future case studies so it's easier to keep the same tone and structure.
