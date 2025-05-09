@@ -47,7 +47,7 @@ The security team launched a targeted hunting effort, engaged with the client fo
    - Known threat IP addresses from active campaigns
 
 6. **Client Communication**
-   - Drafted and sent a summary email (see below) providing:
+   - Drafted and sent a summary email providing:
      - Assurance based on findings
      - Transparency on new proactive controls
      - Offer to follow up on any questions or concerns
